@@ -1,0 +1,11 @@
+{
+"name": "VulcanCoin",
+"type": "BEP20",
+"symbol": "VULCAN",
+"decimals": 18,
+"website": "https://twitter.com/coin_vulcan",
+"description": "VulcanCoin - People's crypto - Hold long and Prosper! VulcanCoin is a decentralized cryptocurrency that belongs to the people who hold it. Vulcan is an automatic burning cryptocurrency with zero user fee contract. Vulcan was designed to be a simple and efficient highly deflationary asset, with a limited supply that will only decrease in time. The deflationary nature of Vulcan is implemented by a function that burns 0.1% of the value of every  single transaction from a locked account (burn account) containing 30% of the total supply (6.300.000 coins). The burn account is locked and the coins it contains cannot be transferred to a different address other than the burn TO address. Once the burnable supply of 6.3M Vulcan is finished, the total supply of Vulcan will be stable at 14.700.000 coins. New Vulcan coins cannot be minted. Like Bitcoin, Vulcan has a limited maximum supply of only 21 million coins (21,000,000). Unlike Bitcoin, the 21M coins are pre-mined and will decrease in number in time due to transaction burning. The pre-mined nature of VulcanCoin makes it a Clean Energy asset, in contrast to the cryptocurrencies that demand constant mining.",
+"explorer": "https://bscscan.com/token/0x1983da4b6f993e40b65e8549a322097e064fa1d4",
+"status": "active",
+"id": "0x1983Da4B6F993E40B65E8549a322097e064fA1d4"
+)
